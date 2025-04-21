@@ -1,0 +1,14 @@
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.AssemblyInfoInputs.cache
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.AssemblyInfo.cs
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.csproj.CoreCompileInputs.cache
+C:\SimpleApps\TodoList\bin\Debug\net9.0\TodoList.exe
+C:\SimpleApps\TodoList\bin\Debug\net9.0\TodoList.deps.json
+C:\SimpleApps\TodoList\bin\Debug\net9.0\TodoList.runtimeconfig.json
+C:\SimpleApps\TodoList\bin\Debug\net9.0\TodoList.dll
+C:\SimpleApps\TodoList\bin\Debug\net9.0\TodoList.pdb
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.dll
+C:\SimpleApps\TodoList\obj\Debug\net9.0\refint\TodoList.dll
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.pdb
+C:\SimpleApps\TodoList\obj\Debug\net9.0\TodoList.genruntimeconfig.cache
+C:\SimpleApps\TodoList\obj\Debug\net9.0\ref\TodoList.dll
