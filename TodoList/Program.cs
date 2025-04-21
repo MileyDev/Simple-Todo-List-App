@@ -150,10 +150,10 @@ void DeleteTask()
     {
         if (int.TryParse(input, out selected))
         {
-           selectedTask = selected - 1;
-           taskLength = todoList[selectedTask].Length;
-           todoList[(selectedTask)] = null;
-           Console.Write($"You have successfully deleted list {selected} from your current To-Do list.");
+            selectedTask = selected - 1;
+            taskLength = todoList[selectedTask].Length;
+            todoList[(selectedTask)] = null;
+            Console.Write($"You have successfully deleted list {selected} from your current To-Do list.");
             return;
         }
         else
